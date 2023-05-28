@@ -49,4 +49,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # Run the bot
-bot.run('')
+bot.run("THE BOT'S TOKEN")
